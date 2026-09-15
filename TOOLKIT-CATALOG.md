@@ -35,3 +35,21 @@ All forks preserve upstream attribution. The original portfolio implementations 
 For each selected example, record architecture, SDK versions, setup, a successful prompt, negative grounding/permission tests, and one operational failure. Implement an original variation here and preserve attribution for adaptations. Do not present upstream agents as original authorship.
 
 References: [Fabric data agent SDK](https://learn.microsoft.com/en-us/fabric/data-science/fabric-data-agent-sdk), [Microsoft agent samples](https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/agent-samples).
+
+## Dependency audit snapshot — 2026-09-15
+
+Counts span the entire repository, including unrelated examples. Select a documented starting exercise and review its own manifests before installing anything. Critical/high alerts require remediation. Fork Actions remain disabled; cloud execution was not tested. Zero alerts is not certification.
+
+| Curated source | Open dependency alerts | Critical | High |
+| --- | ---: | ---: | ---: |
+| [CopilotStudioSamples](https://github.com/muditdholakia/CopilotStudioSamples) | 40 | 3 | 15 |
+| [copilot-pro-dev-samples](https://github.com/muditdholakia/copilot-pro-dev-samples) | 920 | 24 | 461 |
+| [m365-agent-templates](https://github.com/muditdholakia/m365-agent-templates) | 0 | 0 | 0 |
+| [agent-academy](https://github.com/muditdholakia/agent-academy) | 6 | 0 | 3 |
+| [mcs-labs](https://github.com/muditdholakia/mcs-labs) | 22 | 0 | 11 |
+| [copilot-camp](https://github.com/muditdholakia/copilot-camp) | 306 | 30 | 110 |
+| [ai-agents-for-beginners](https://github.com/muditdholakia/ai-agents-for-beginners) | 0 | 0 | 0 |
+| [Agents](https://github.com/muditdholakia/Agents) | 63 | 0 | 23 |
+| [skills-for-copilot-studio](https://github.com/muditdholakia/skills-for-copilot-studio) | 0 | 0 | 0 |
+| [agent-framework](https://github.com/muditdholakia/agent-framework) | 0 | 0 | 0 |
+| [Power-CAT-Copilot-Studio-Kit](https://github.com/muditdholakia/Power-CAT-Copilot-Studio-Kit) | 14 | 0 | 3 |
